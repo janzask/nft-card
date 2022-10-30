@@ -91,9 +91,16 @@ a:active {
     line-height: 20.16px;
 }
 
-.clock,
 .icon_ethereum {
+    width: 11px;
+    height: 18px;
     margin-right: 0.5em;
+}
+
+.clock {
+    margin-right: 0.5em;
+    width: 16px;
+    height: 16px;
 }
 
 hr {

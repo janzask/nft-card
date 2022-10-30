@@ -70,8 +70,6 @@ a:active {
 
 .price_time {
     display: flex;
-    font-size: 16px;
-    line-height: 20.16px;
 }
 
 .price_time p {
@@ -82,11 +80,15 @@ a:active {
     color: #00FFF8;
     font-weight: 600;
     margin-right: 7em;
+    font-size: 16px;
+    line-height: 20.16px;
 }
 
 .time {
     color: #8BACD9;
     font-weight: 400;
+    font-size: 16px;
+    line-height: 20.16px;
 }
 
 .clock,
